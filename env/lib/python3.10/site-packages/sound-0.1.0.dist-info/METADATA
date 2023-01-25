@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: sound
+Version: 0.1.0
+Summary: Fast, out-of-core access to disk-based sound data and read/write audio files.
+Home-page: https://github.com/gbeckers/sound
+Author: Gabriel J.L. Beckers
+Author-email: gabriel@gbeckers.nl
+License: BSD-3
+Project-URL: Source, https://github.com/gbeckers/sound
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Requires-Dist: soundfile
+Requires-Dist: darr
+
+
+Sound is a package for python access to file based sound data. Created with 
+scientific use in mind. It is in its early stages of development (alpha) stage.
+
+
+
